@@ -40,4 +40,4 @@ para permitir diferentes algoritmos de cálculo de preço de reserva.
 
 ## UML do projeto
 
-![img_1.png](img_1.png)
+![img_2.png](img_2.png)
